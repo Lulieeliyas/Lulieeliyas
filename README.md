@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile.jpg" width="180" style="border-radius:50%;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Eliyas Lulie</h1>
 <h3 align="center">Full-Stack Developer | University Clearance System Builder</h3>
 
@@ -17,7 +21,7 @@
 ---
 
 ## 🛠️ Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,django,flutter,python,java,mysql,sqlite,git,github" />
 </p>
 
@@ -48,8 +52,8 @@
 
 ## 📫 Connect With Me
 - GitHub: [@Lulieeliyas](https://github.com/Lulieeliyas)
-- Email: lulieeliyas@gmail.com
-- Website:https://my-websites-qx7p.vercel.app/
+- Email: **lulieeliyas@gmail.com**
+- Website: https://my-websites-qx7p.vercel.app/
 
 ---
 
