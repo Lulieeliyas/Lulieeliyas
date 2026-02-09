@@ -2,7 +2,7 @@
   <img
     src="assets/jjjjela.jpg"
     alt="Eliyas Lulie"
-    width="350"
+    width="500"
     height="350"
     style="max-width:100%; border-radius: 500%;"
   />
@@ -15,7 +15,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lulieeliyas&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
----
 
 ## 🚀 About Me
 - 🎓 Software Engineering Student  
