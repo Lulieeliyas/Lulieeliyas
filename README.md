@@ -17,19 +17,17 @@
     <h3 style="margin-top: 10px;">
       I'M A Software Engineer & Full-Stack Developer
     </h3>
-  </div>
 
-</div>
-
-<!-- Profile Views -->
+  <!-- Profile Views -->
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=Lulieeliyas&label=Profile%20views&color=0e75b6&style=flat"
     alt="Profile views"
   />
 </p>
+  </div>
 
-
+</div>
 ---
 
 ## 🚀 About Me
