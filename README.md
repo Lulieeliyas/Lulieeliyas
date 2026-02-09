@@ -1,9 +1,15 @@
 <p align="center">
-  <img src="assets/jjjjela.jpg" width="180" style="border-radius:50%;" />
+  <img
+    src="assets/jjjjela.jpg"
+    alt="Eliyas Lulie"
+    width="200"
+    style="max-width:100%; border-radius: 50%;"
+  />
 </p>
 
+
 <h1 align="center">Hi 👋, I'm Eliyas Lulie</h1>
-<h3 align="center">Full-Stack Developer | University Clearance System Builder</h3>
+<h3 align="center">I'M A software Engineer & Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lulieeliyas&label=Profile%20views&color=0e75b6&style=flat" />
