@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile.jpg" width="180" style="border-radius:50%;" />
+  <img src="assets/jjjjela.jpg" width="180" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Eliyas Lulie</h1>
