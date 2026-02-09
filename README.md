@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/jjjjela.jpg" width="200" height="200" />
+  <img src="assets/jjjjela.jpg" width="180" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Eliyas Lulie</h1>
@@ -14,9 +14,9 @@
 ## 🚀 About Me
 - 🎓 Software Engineering Student  
 - 💻 Building **University Online Clearance Systems**
-- 🌐 Full-stack development with **React, Django, Flutter**
+- 🌐 Working with **React, Django, Flutter**
 - 🗄️ Databases: **MySQL, SQLite**
-- ✨ Passionate about **clean UI, real-world systems, and scalability**
+- 🚀 Passionate about **clean UI & scalable systems**
 
 ---
 
@@ -27,9 +27,9 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 - 🏫 **University Online Clearance System**  
-  Role-based approval workflow  
+  Full workflow system with role-based approval  
   `React + Django + MySQL`
 
 - 📱 **Flutter University App**  
