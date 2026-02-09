@@ -1,16 +1,24 @@
-<p align="left">
-  <img
-    src="assets/jjjjela.jpg"
-    alt="Eliyas Lulie"
-    width="200"
-    style="max-width:100%; border-radius: 500%;"
-  />
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 
+  <!-- Left: Image -->
+  <div style="flex: 1; text-align: left;">
+    <img
+      src="assets/jjjjela.jpg"
+      alt="Eliyas Lulie"
+      width="200"
+      style="max-width: 100%; border-radius: 50%;"
+    />
+  </div>
 
-<h1 align="right">Hi 👋, I'm Eliyas Lulie</h1>
-<h3 align="right">I'M A software Engineer & Full-Stack Developer</h3>
+  <!-- Right: Name & Title -->
+  <div style="flex: 2; text-align: right;">
+    <h1>Hi 👋, I'm Eliyas Lulie</h1>
+    <h3>I'M A Software Engineer & Full-Stack Developer</h3>
+  </div>
 
+</div>
+
+<!-- Centered profile views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lulieeliyas&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
