@@ -1,55 +1,36 @@
 <h1 align="center">Hi 👋, I'm Eliyas Lulie</h1>
-<h3 align="center">Full-Stack Developer | University Clearance System Builder</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lulieeliyas&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<h3 align="center">Software Engineering Student | Full-Stack Developer</h3>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Software Engineering Student  
-- 💻 Building **University Online Clearance Systems**
-- 🌐 Working with **React, Django, Flutter**
-- 🗄️ Databases: **MySQL, SQLite**
-- 🚀 Passionate about **clean UI & scalable systems**
+- 🎓 Software Engineering Student
+- 💻 Building real-world university systems
+- 🌐 Full-stack: React + Django
+- 📱 Mobile apps with Flutter
+- 🗄️ Databases: MySQL, SQLite
 
 ---
 
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,django,flutter,python,java,mysql,sqlite,git,github" />
-</p>
+## 🛠️ Skills
+- Languages: Java, Python, JavaScript
+- Frameworks: React, Django, Flutter
+- Tools: Git, GitHub, REST APIs
 
 ---
 
-## 📌 Projects
-- 🏫 **University Online Clearance System**  
-  Full workflow system with role-based approval  
-  `React + Django + MySQL`
-
-- 📱 **Flutter University App**  
-  Student clearance & approval tracking
-
-- 🔢 **Geez ↔ Arabic Number Converter App**
+## 📌 Featured Projects
+- 🏫 University Online Clearance System
+- 📱 Flutter Student Clearance App
+- 🧠 AI Group Project
+- 🔢 Unit Converter App
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lulieeliyas&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lulieeliyas&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Lulieeliyas&show_icons=true&theme=tokyonight" />
 
 ---
 
-## 📫 Connect With Me
-- GitHub: [@Lulieeliyas](https://github.com/Lulieeliyas)
-- Email: **your-email@example.com**
-
----
-
-⭐ *“Code is not just code — it’s a solution.”*
+📫 **Contact**
+- GitHub: @Lulieeliyas
