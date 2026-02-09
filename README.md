@@ -1,5 +1,65 @@
 <p align="center">
-  <img src="assets/jjjjela.jpg" width="180" style="border-radius:50%;" />
+  <img src="assets/jjjjela.jpg" width="180" style="border-radius:50%;" /><p align="center">
+  <img src="assets/jjjjela.jpg" width="200" height="200" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Eliyas Lulie</h1>
+<h3 align="center">Full-Stack Developer | University Clearance System Builder</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lulieeliyas&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 Software Engineering Student  
+- 💻 Building **University Online Clearance Systems**
+- 🌐 Full-stack development with **React, Django, Flutter**
+- 🗄️ Databases: **MySQL, SQLite**
+- ✨ Passionate about **clean UI, real-world systems, and scalability**
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,django,flutter,python,java,mysql,sqlite,git,github" />
+</p>
+
+---
+
+## 📌 Featured Projects
+- 🏫 **University Online Clearance System**  
+  Role-based approval workflow  
+  `React + Django + MySQL`
+
+- 📱 **Flutter University App**  
+  Student clearance & approval tracking
+
+- 🔢 **Geez ↔ Arabic Number Converter App**
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lulieeliyas&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lulieeliyas&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+- GitHub: [@Lulieeliyas](https://github.com/Lulieeliyas)
+- Email: **lulieeliyas@gmail.com**
+- Website: https://my-websites-qx7p.vercel.app/
+
+---
+
+⭐ *“Code is not just code — it’s a solution.”*
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Eliyas Lulie</h1>
