@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img
     src="assets/jjjjela.jpg"
     alt="Eliyas Lulie"
@@ -8,8 +8,8 @@
 </p>
 
 
-<h1 align="right">Hi 👋, I'm Eliyas Lulie</h1>
-<h3 align="right">I'M A software Engineer & Full-Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Eliyas Lulie</h1>
+<h3 align="center">I'M A software Engineer & Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lulieeliyas&label=Profile%20views&color=0e75b6&style=flat" />
