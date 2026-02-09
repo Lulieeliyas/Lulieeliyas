@@ -1,33 +1,19 @@
-<!-- Profile Header -->
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; padding: 20px 0;">
-
-  <!-- Left: Profile Image -->
-  <div style="flex: 1; text-align: left;">
-    <img
-      src="assets/jjjjela.jpg"
-      alt="Eliyas Lulie"
-      width="200"
-      style="max-width: 100%; border-radius: 50%;"
-    />
-  </div>
-
-  <!-- Right: Name and Title -->
-  <div style="flex: 2; text-align: right;">
-    <h1 style="margin: 0;">Hi 👋, I'm Eliyas Lulie</h1>
-    <h3 style="margin-top: 10px;">
-      I'M A Software Engineer & Full-Stack Developer
-    </h3>
-
-  <!-- Profile Views -->
-<p align="center">
+<p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=Lulieeliyas&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Profile views"
+    src="assets/jjjjela.jpg"
+    alt="Eliyas Lulie"
+    width="200"
+    style="max-width:100%; border-radius: 500%;"
   />
 </p>
-  </div>
 
-</div>
+
+<h1 align="right">Hi 👋, I'm Eliyas Lulie</h1>
+<h3 align="right">I'M A software Engineer & Full-Stack Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lulieeliyas&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 ---
 
 ## 🚀 About Me
