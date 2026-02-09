@@ -2,7 +2,7 @@
   <img
     src="assets/jjjjela.jpg"
     alt="Eliyas Lulie"
-    width="500"
+    width="600"
     height="750"
     style="max-width:100%; border-radius: 500%;"
   />
