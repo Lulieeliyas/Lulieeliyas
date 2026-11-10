@@ -63,5 +63,3 @@
 
 ⭐ *“Code is not just code — it’s a solution.”*
 
-
-give me attractive and profetional readmes as well as if  someone is search googles so display my profiles in chrome search or other medias
